@@ -235,3 +235,174 @@ section {
 .inspiration-content .video {
     border-radius: 20px;
 }
+
+.current-target-content {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.current-target-content h3 {
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.current-target-content p {
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    line-height: 26px;
+    margin-top: 10px;
+}
+
+.current-target {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.html,
+.css,
+.js {
+    border-radius: 16px;
+    padding: 30px;
+}
+
+.html h3 {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 15px;
+}
+
+.html p {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    line-height: 20px;
+    margin: 10px 0;
+}
+
+.html {
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.css {
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.css h3 {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 15px;
+}
+
+.css p {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    line-height: 20px;
+    margin: 10px 0;
+}
+
+.js {
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.js p {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 14px;
+    font-style: normal;
+    line-height: 20px;
+    margin: 10px 0;
+}
+
+.js h3 {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 15px;
+}
+
+.support-section {
+    margin-top: 70px;
+    border-radius: 16px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url('assets/handshake.jpg') lightgray 50% / cover no-repeat;
+    padding: 64px 48px;
+}
+
+.supprt-content h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.supprt-content p {
+    color: #FFF;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+}
+
+.submit input {
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.submit button {
+    padding: 10px;
+    border-radius: 10px;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(13, 19, 33, 0.03);
+    padding: 20px 100px;
+    margin-top: 40px;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
