@@ -112,6 +112,7 @@ section {
     background: #0D1321;
     font-size: 17px;
     color: #fff;
+    cursor: pointer;
 }
 
 #development-container {
